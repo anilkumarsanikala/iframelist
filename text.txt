@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<font="times new roman">
+<center><h1><u>RESUME</u></h1></center>
+<h1>SANIKALA ANILKUMAR</h1>
+<h2>Career Objective</h2>
+<p>Seeking a position in a dynamic organization where I can launch my career and work towards building a strong skill set.</p>
+<h2>Technical Skills</h2>
+<pre>
+1. HTML
+2. CSS
+3. CORE JAVA
+</pre>
+<h2>Hobbies</h2>
+<pre>
+1. cricket
+2. football
+3. kabbadi
+</pre>
+<h2>Declaration</h2>
+<p>The information presented in this resume accurately reflects my qualifications and experience.</p>
+<pre> 
+Date:03-08-2024
+Place: Hyderabad.
+</font>
+</body>
+</html>
